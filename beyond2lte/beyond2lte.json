@@ -16,8 +16,8 @@
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "",
-        "paypal": "https://lineage.linux4.de/devices/beyond2lte.html",
+        "recovery": "https://lineage.linux4.de/devices/beyond2lte.html",
+        "paypal": "",
         "telegram": "https://t.me/Orel6505_Builds_Discussion"
     }
   ]
