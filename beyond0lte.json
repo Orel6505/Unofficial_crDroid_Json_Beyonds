@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "Orel Yosupov (Orel6505)",
+        "oem": "Samsung",
+        "device": "Galaxy S10e",
+        "filename": "crDroidAndroid-11.0-20210731-beyond0lte-v7.8.zip",
+        "download": "https://sourceforge.net/projects/orel6505-builds/files/Beyond0lte/7.x/crDroidAndroid-11.0-20210731-beyond0lte-v7.8.zip/download",
+        "timestamp": 1627765061,
+        "md5": "3e0d41002198fd59f237430819b5f6bc",
+        "size": 809421155,
+        "version": "7.8",
+        "buildtype": "Monthly",
+        "forum": "https://forum.xda-developers.com/m/orel6505.8767339/",
+        "gapps": "https://opengapps.org",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://lineage.linux4.de/devices/beyond0lte.html",
+        "paypal": "",
+        "telegram": "https://t.me/Orel6505_Builds_Discussion"
+    }
+  ]
+}

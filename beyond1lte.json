@@ -5,7 +5,7 @@
         "oem": "Samsung",
         "device": "Galaxy S10",
         "filename": "crDroidAndroid-11.0-20210730-beyond1lte-v7.8.zip",
-        "download": "https://sourceforge.net/projects/orel6505-builds/files/Beyond2lte/7.x/crDroidAndroid-11.0-20210730-beyond1lte-v7.8.zip/download",
+        "download": "https://sourceforge.net/projects/orel6505-builds/files/Beyond1lte/7.x/crDroidAndroid-11.0-20210730-beyond1lte-v7.8.zip/download",
         "timestamp": 1627765062,
         "md5": "3e0d41002198fd59f237430819b5f6bc",
         "size": 809421155,
@@ -16,8 +16,8 @@
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "",
-        "paypal": "https://lineage.linux4.de/devices/beyond2lte.html",
+        "recovery": "https://lineage.linux4.de/devices/beyond1lte.html",
+        "paypal": "",
         "telegram": "https://t.me/Orel6505_Builds_Discussion"
     }
   ]
