@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Samsung Galaxy S10e
+Device maintainer: Orel Yosupov (Orel6505)
+
+==== 17 September, 2021 ====
+- crDroid 7.10
+- September security patches (android-11.0.0_r43)
+- Based on new trees trees
+- Based of new blobs
+- Dolby Audio
+
+
+==== 4 August, 2021 ====
+- Update to crDroid 7.9
+- August security patches (android-11.0.0_r40)
+- Based of new trees
+
+==== 31 July, 2021 ====
+- Initial build
