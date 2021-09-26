@@ -1,24 +1,24 @@
 {
-  "response": [
-    {
-        "maintainer": "Orel Yosupov (Orel6505)",
-        "oem": "Samsung",
-        "device": "Samsung Galaxy S10e",
-        "filename": "crDroidAndroid-11.0-20210808-beyond0lte-v7.9.zip",
-        "download": "https://sourceforge.net/projects/orel6505-builds/files/Beyond0lte/7.x/crDroidAndroid-11.0-20210808-beyond0lte-v7.9.zip/download",
-        "timestamp": 1628370821,
-        "md5": "853434b8353a0da40049d4b18046015c",
-        "size": 799797570,
-        "version": "7.9",
-        "buildtype": "Monthly",
-        "forum": "https://forum.xda-developers.com/m/orel6505.8767339/",
-        "gapps": "https://opengapps.org",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "https://lineage.linux4.de/devices/beyond0lte.html",
-        "paypal": "",
-        "telegram": "https://t.me/Orel6505_Builds_Discussion"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Orel Yosupov (Orel6505)",
+			"oem": "Samsung",
+			"device": "Samsung Galaxy S10e",
+			"filename": "crDroidAndroid-11.0-20210926-beyond0lte-v7.10.zip",
+			"download": "https://sourceforge.net/projects/orel6505-builds/files/Beyond0lte/7.x/crDroidAndroid-11.0-20210926-beyond0lte-v7.10.zip/download",
+			"timestamp": 1632646847,
+			"md5": "3c2b32df713227942b676833fb42e08d",
+			"size": 804545285,
+			"version": "7.10",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/m/orel6505.8767339/",
+			"gapps": "https://opengapps.org",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://lineage.linux4.de/devices/beyond0lte.html",
+			"paypal": "",
+			"telegram": "https://t.me/Orel6505_Builds_Discussion"
+		}
+	]
 }
