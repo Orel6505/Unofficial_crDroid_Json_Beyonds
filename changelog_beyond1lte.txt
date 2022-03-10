@@ -4,6 +4,9 @@ Device: Samsung Galaxy S10
 Device maintainer: Orel Yosupov (Orel6505)
 
 ==== 17 September, 2021 ====
+- Test time :)
+
+==== 17 September, 2021 ====
 - crDroid 7.10
 - September security patches (android-11.0.0_r43)
 - Based on new trees trees
